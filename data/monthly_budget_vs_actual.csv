@@ -1,0 +1,341 @@
+year,month,month_name,category,actual_expense,budget,variance
+2018,1,January,Coffee Shops,3.0,15.0,12.0
+2018,1,January,Credit Card Payment,864.8,0.0,-864.8
+2018,1,January,Fast Food,32.91,15.0,-17.909999999999997
+2018,1,January,Gas & Fuel,65.28999999999999,75.0,9.710000000000008
+2018,1,January,Groceries,87.72999999999999,150.0,62.27000000000001
+2018,1,January,Home Improvement,51.21,250.0,198.79
+2018,1,January,Internet,69.99,75.0,5.010000000000005
+2018,1,January,Mobile Phone,89.46,65.0,-24.459999999999994
+2018,1,January,Mortgage & Rent,1247.44,1100.0,-147.44000000000005
+2018,1,January,Movies & DVDs,11.76,0.0,-11.76
+2018,1,January,Music,10.69,11.0,0.3100000000000005
+2018,1,January,Paycheck,0.0,0.0,0.0
+2018,1,January,Restaurants,156.79999999999998,150.0,-6.799999999999983
+2018,1,January,Shopping,100.37,100.0,-0.37000000000000455
+2018,1,January,Utilities,140.0,150.0,10.0
+2018,2,February,Alcohol & Bars,14.0,50.0,36.0
+2018,2,February,Coffee Shops,6.0,15.0,9.0
+2018,2,February,Credit Card Payment,1075.6100000000001,0.0,-1075.6100000000001
+2018,2,February,Fast Food,10.66,15.0,4.34
+2018,2,February,Gas & Fuel,68.68,75.0,6.319999999999993
+2018,2,February,Groceries,63.74,150.0,86.25999999999999
+2018,2,February,Haircut,30.0,30.0,0.0
+2018,2,February,Internet,74.99,75.0,0.010000000000005116
+2018,2,February,Mobile Phone,89.52,65.0,-24.519999999999996
+2018,2,February,Mortgage & Rent,1247.44,1100.0,-147.44000000000005
+2018,2,February,Movies & DVDs,11.76,0.0,-11.76
+2018,2,February,Music,10.69,11.0,0.3100000000000005
+2018,2,February,Paycheck,0.0,0.0,0.0
+2018,2,February,Restaurants,290.85,150.0,-140.85000000000002
+2018,2,February,Shopping,11.11,100.0,88.89
+2018,2,February,Utilities,160.0,150.0,-10.0
+2018,3,March,Alcohol & Bars,19.5,50.0,30.5
+2018,3,March,Coffee Shops,10.0,15.0,5.0
+2018,3,March,Credit Card Payment,1321.5,0.0,-1321.5
+2018,3,March,Fast Food,23.34,15.0,-8.34
+2018,3,March,Gas & Fuel,65.45,75.0,9.549999999999997
+2018,3,March,Groceries,171.07,150.0,-21.069999999999993
+2018,3,March,Internet,74.99,75.0,0.010000000000005116
+2018,3,March,Mobile Phone,89.52,65.0,-24.519999999999996
+2018,3,March,Mortgage & Rent,1247.44,1100.0,-147.44000000000005
+2018,3,March,Movies & DVDs,11.76,0.0,-11.76
+2018,3,March,Music,10.69,11.0,0.3100000000000005
+2018,3,March,Paycheck,0.0,0.0,0.0
+2018,3,March,Restaurants,234.05,150.0,-84.05000000000001
+2018,3,March,Shopping,73.85000000000001,100.0,26.14999999999999
+2018,3,March,Utilities,147.0,150.0,3.0
+2018,4,April,Auto Insurance,75.0,75.0,0.0
+2018,4,April,Coffee Shops,7.0,15.0,8.0
+2018,4,April,Credit Card Payment,3166.88,0.0,-3166.88
+2018,4,April,Gas & Fuel,81.56,75.0,-6.560000000000002
+2018,4,April,Groceries,274.39,150.0,-124.38999999999999
+2018,4,April,Haircut,30.0,30.0,0.0
+2018,4,April,Home Improvement,572.16,250.0,-322.15999999999997
+2018,4,April,Internet,74.99,75.0,0.010000000000005116
+2018,4,April,Mobile Phone,89.52,65.0,-24.519999999999996
+2018,4,April,Mortgage & Rent,1247.44,1100.0,-147.44000000000005
+2018,4,April,Movies & DVDs,18.17,0.0,-18.17
+2018,4,April,Music,10.69,11.0,0.3100000000000005
+2018,4,April,Paycheck,0.0,0.0,0.0
+2018,4,April,Restaurants,202.26999999999998,150.0,-52.26999999999998
+2018,4,April,Shopping,54.470000000000006,100.0,45.529999999999994
+2018,4,April,Utilities,125.0,150.0,25.0
+2018,5,May,Alcohol & Bars,27.77,50.0,22.23
+2018,5,May,Auto Insurance,75.0,75.0,0.0
+2018,5,May,Credit Card Payment,884.47,0.0,-884.47
+2018,5,May,Entertainment,9.62,25.0,15.38
+2018,5,May,Fast Food,27.79,15.0,-12.79
+2018,5,May,Gas & Fuel,72.74,75.0,2.260000000000005
+2018,5,May,Groceries,289.21,150.0,-139.20999999999998
+2018,5,May,Haircut,29.0,30.0,1.0
+2018,5,May,Home Improvement,8022.37,250.0,-7772.37
+2018,5,May,Internet,74.99,75.0,0.010000000000005116
+2018,5,May,Mobile Phone,111.18,65.0,-46.18000000000001
+2018,5,May,Mortgage & Rent,1247.44,1100.0,-147.44000000000005
+2018,5,May,Movies & DVDs,38.01,0.0,-38.01
+2018,5,May,Music,10.69,11.0,0.3100000000000005
+2018,5,May,Paycheck,0.0,0.0,0.0
+2018,5,May,Restaurants,127.3,150.0,22.700000000000003
+2018,5,May,Shopping,219.45,100.0,-119.44999999999999
+2018,5,May,Utilities,125.0,150.0,25.0
+2018,6,June,Auto Insurance,75.0,75.0,0.0
+2018,6,June,Coffee Shops,10.5,15.0,4.5
+2018,6,June,Credit Card Payment,1550.83,0.0,-1550.83
+2018,6,June,Fast Food,61.5,15.0,-46.5
+2018,6,June,Gas & Fuel,77.15,75.0,-2.1500000000000057
+2018,6,June,Groceries,139.15,150.0,10.849999999999994
+2018,6,June,Haircut,30.0,30.0,0.0
+2018,6,June,Internet,74.99,75.0,0.010000000000005116
+2018,6,June,Mobile Phone,89.46,65.0,-24.459999999999994
+2018,6,June,Mortgage & Rent,1247.44,1100.0,-147.44000000000005
+2018,6,June,Movies & DVDs,11.76,0.0,-11.76
+2018,6,June,Music,10.69,11.0,0.3100000000000005
+2018,6,June,Paycheck,0.0,0.0,0.0
+2018,6,June,Restaurants,74.31,150.0,75.69
+2018,6,June,Shopping,88.1,100.0,11.900000000000006
+2018,6,June,Utilities,125.0,150.0,25.0
+2018,7,July,Alcohol & Bars,35.14,50.0,14.86
+2018,7,July,Auto Insurance,75.0,75.0,0.0
+2018,7,July,Credit Card Payment,666.34,0.0,-666.34
+2018,7,July,Fast Food,24.810000000000002,15.0,-9.810000000000002
+2018,7,July,Gas & Fuel,137.9,75.0,-62.900000000000006
+2018,7,July,Groceries,86.18,150.0,63.81999999999999
+2018,7,July,Haircut,30.0,30.0,0.0
+2018,7,July,Internet,74.99,75.0,0.010000000000005116
+2018,7,July,Mobile Phone,89.46,65.0,-24.459999999999994
+2018,7,July,Mortgage & Rent,1247.44,1100.0,-147.44000000000005
+2018,7,July,Movies & DVDs,43.17,0.0,-43.17
+2018,7,July,Music,10.69,11.0,0.3100000000000005
+2018,7,July,Paycheck,0.0,0.0,0.0
+2018,7,July,Restaurants,97.41,150.0,52.59
+2018,7,July,Shopping,225.45,100.0,-125.44999999999999
+2018,7,July,Utilities,125.0,150.0,25.0
+2018,8,August,Auto Insurance,75.0,75.0,0.0
+2018,8,August,Credit Card Payment,403.5,0.0,-403.5
+2018,8,August,Fast Food,13.67,15.0,1.33
+2018,8,August,Gas & Fuel,150.82,75.0,-75.82
+2018,8,August,Groceries,23.55,150.0,126.45
+2018,8,August,Internet,74.99,75.0,0.010000000000005116
+2018,8,August,Mobile Phone,89.4,65.0,-24.400000000000006
+2018,8,August,Mortgage & Rent,1247.44,1100.0,-147.44000000000005
+2018,8,August,Movies & DVDs,11.76,0.0,-11.76
+2018,8,August,Music,10.69,11.0,0.3100000000000005
+2018,8,August,Paycheck,0.0,0.0,0.0
+2018,8,August,Restaurants,42.31,150.0,107.69
+2018,8,August,Shopping,128.04999999999998,100.0,-28.049999999999983
+2018,8,August,Utilities,125.0,150.0,25.0
+2018,9,September,Alcohol & Bars,65.4,50.0,-15.400000000000006
+2018,9,September,Auto Insurance,75.0,75.0,0.0
+2018,9,September,Coffee Shops,5.0,15.0,10.0
+2018,9,September,Credit Card Payment,972.25,0.0,-972.25
+2018,9,September,Gas & Fuel,117.57,75.0,-42.56999999999999
+2018,9,September,Groceries,97.32,150.0,52.68000000000001
+2018,9,September,Haircut,30.0,30.0,0.0
+2018,9,September,Home Improvement,76.23,250.0,173.76999999999998
+2018,9,September,Internet,74.99,75.0,0.010000000000005116
+2018,9,September,Mobile Phone,89.4,65.0,-24.400000000000006
+2018,9,September,Mortgage & Rent,1247.44,1100.0,-147.44000000000005
+2018,9,September,Movies & DVDs,11.76,0.0,-11.76
+2018,9,September,Music,10.69,11.0,0.3100000000000005
+2018,9,September,Paycheck,0.0,0.0,0.0
+2018,9,September,Restaurants,118.60000000000001,150.0,31.39999999999999
+2018,9,September,Shopping,170.34,100.0,-70.34
+2018,9,September,Utilities,125.0,150.0,25.0
+2018,10,October,Alcohol & Bars,12.71,50.0,37.29
+2018,10,October,Auto Insurance,75.0,75.0,0.0
+2018,10,October,Coffee Shops,3.0,15.0,12.0
+2018,10,October,Credit Card Payment,605.98,0.0,-605.98
+2018,10,October,Food & Dining,14.75,0.0,-14.75
+2018,10,October,Gas & Fuel,72.72,75.0,2.280000000000001
+2018,10,October,Groceries,208.58999999999997,150.0,-58.589999999999975
+2018,10,October,Home Improvement,157.09,250.0,92.91
+2018,10,October,Internet,74.99,75.0,0.010000000000005116
+2018,10,October,Mobile Phone,89.4,65.0,-24.400000000000006
+2018,10,October,Mortgage & Rent,1209.18,1100.0,-109.18000000000006
+2018,10,October,Movies & DVDs,11.76,0.0,-11.76
+2018,10,October,Music,10.69,11.0,0.3100000000000005
+2018,10,October,Paycheck,0.0,0.0,0.0
+2018,10,October,Restaurants,114.4,150.0,35.599999999999994
+2018,10,October,Shopping,63.09,100.0,36.91
+2018,10,October,Utilities,125.0,150.0,25.0
+2018,11,November,Alcohol & Bars,86.6,50.0,-36.599999999999994
+2018,11,November,Auto Insurance,75.0,75.0,0.0
+2018,11,November,Credit Card Payment,845.5,0.0,-845.5
+2018,11,November,Fast Food,37.85,15.0,-22.85
+2018,11,November,Gas & Fuel,65.66,75.0,9.340000000000003
+2018,11,November,Groceries,104.50999999999999,150.0,45.49000000000001
+2018,11,November,Home Improvement,69.3,250.0,180.7
+2018,11,November,Internet,74.99,75.0,0.010000000000005116
+2018,11,November,Mobile Phone,89.54,65.0,-24.540000000000006
+2018,11,November,Mortgage & Rent,1209.18,1100.0,-109.18000000000006
+2018,11,November,Movies & DVDs,28.759999999999998,0.0,-28.759999999999998
+2018,11,November,Music,10.69,11.0,0.3100000000000005
+2018,11,November,Paycheck,0.0,0.0,0.0
+2018,11,November,Restaurants,73.99,150.0,76.01
+2018,11,November,Shopping,67.08,100.0,32.92
+2018,11,November,Utilities,125.0,150.0,25.0
+2018,12,December,Alcohol & Bars,26.0,50.0,24.0
+2018,12,December,Auto Insurance,75.0,75.0,0.0
+2018,12,December,Coffee Shops,6.0,15.0,9.0
+2018,12,December,Credit Card Payment,775.05,0.0,-775.05
+2018,12,December,Fast Food,98.1,15.0,-83.1
+2018,12,December,Food & Dining,63.0,0.0,-63.0
+2018,12,December,Gas & Fuel,120.37,75.0,-45.370000000000005
+2018,12,December,Groceries,277.71999999999997,150.0,-127.71999999999997
+2018,12,December,Haircut,30.0,30.0,0.0
+2018,12,December,Home Improvement,105.64,250.0,144.36
+2018,12,December,Internet,75.99,75.0,-0.9899999999999949
+2018,12,December,Mobile Phone,89.54,65.0,-24.540000000000006
+2018,12,December,Mortgage & Rent,1209.18,1100.0,-109.18000000000006
+2018,12,December,Movies & DVDs,11.76,0.0,-11.76
+2018,12,December,Music,10.69,11.0,0.3100000000000005
+2018,12,December,Paycheck,0.0,0.0,0.0
+2018,12,December,Restaurants,101.81,150.0,48.19
+2018,12,December,Shopping,217.14000000000001,100.0,-117.14000000000001
+2018,12,December,Utilities,135.0,150.0,15.0
+2019,1,January,Auto Insurance,75.0,75.0,0.0
+2019,1,January,Credit Card Payment,3450.88,0.0,-3450.88
+2019,1,January,Gas & Fuel,60.24,75.0,14.759999999999998
+2019,1,January,Groceries,85.91,150.0,64.09
+2019,1,January,Haircut,30.0,30.0,0.0
+2019,1,January,Internet,75.0,75.0,0.0
+2019,1,January,Mobile Phone,65.0,65.0,0.0
+2019,1,January,Mortgage & Rent,1100.0,1100.0,0.0
+2019,1,January,Music,10.69,11.0,0.3100000000000005
+2019,1,January,Paycheck,0.0,0.0,0.0
+2019,1,January,Restaurants,23.49,150.0,126.51
+2019,1,January,Shopping,71.10000000000001,100.0,28.89999999999999
+2019,1,January,Utilities,140.0,150.0,10.0
+2019,2,February,Alcohol & Bars,8.0,50.0,42.0
+2019,2,February,Auto Insurance,75.0,75.0,0.0
+2019,2,February,Coffee Shops,6.0,15.0,9.0
+2019,2,February,Credit Card Payment,1208.8,0.0,-1208.8
+2019,2,February,Gas & Fuel,57.81,75.0,17.189999999999998
+2019,2,February,Groceries,122.37,150.0,27.629999999999995
+2019,2,February,Haircut,30.0,30.0,0.0
+2019,2,February,Home Improvement,86.97,250.0,163.03
+2019,2,February,Internet,75.0,75.0,0.0
+2019,2,February,Mobile Phone,65.0,65.0,0.0
+2019,2,February,Mortgage & Rent,1100.0,1100.0,0.0
+2019,2,February,Music,10.69,11.0,0.3100000000000005
+2019,2,February,Paycheck,0.0,0.0,0.0
+2019,2,February,Restaurants,95.46,150.0,54.540000000000006
+2019,2,February,Shopping,50.540000000000006,100.0,49.459999999999994
+2019,2,February,Television,11.76,15.0,3.24
+2019,2,February,Utilities,160.0,150.0,-10.0
+2019,3,March,Alcohol & Bars,49.63,50.0,0.36999999999999744
+2019,3,March,Auto Insurance,75.0,75.0,0.0
+2019,3,March,Coffee Shops,18.04,15.0,-3.039999999999999
+2019,3,March,Credit Card Payment,1098.92,0.0,-1098.92
+2019,3,March,Electronics & Software,320.99,0.0,-320.99
+2019,3,March,Gas & Fuel,71.59,75.0,3.4099999999999966
+2019,3,March,Groceries,112.73,150.0,37.269999999999996
+2019,3,March,Internet,75.0,75.0,0.0
+2019,3,March,Mobile Phone,65.0,65.0,0.0
+2019,3,March,Mortgage & Rent,1100.0,1100.0,0.0
+2019,3,March,Music,10.69,11.0,0.3100000000000005
+2019,3,March,Paycheck,0.0,0.0,0.0
+2019,3,March,Restaurants,18.02,150.0,131.98
+2019,3,March,Shopping,70.14,100.0,29.86
+2019,3,March,Television,11.76,15.0,3.24
+2019,3,March,Utilities,144.0,150.0,6.0
+2019,4,April,Alcohol & Bars,54.4,50.0,-4.399999999999999
+2019,4,April,Auto Insurance,75.0,75.0,0.0
+2019,4,April,Credit Card Payment,2862.6800000000003,0.0,-2862.6800000000003
+2019,4,April,Electronics & Software,44.93,0.0,-44.93
+2019,4,April,Gas & Fuel,78.02,75.0,-3.019999999999996
+2019,4,April,Groceries,91.08000000000001,150.0,58.91999999999999
+2019,4,April,Haircut,30.0,30.0,0.0
+2019,4,April,Home Improvement,29.56,250.0,220.44
+2019,4,April,Internet,75.0,75.0,0.0
+2019,4,April,Mobile Phone,65.0,65.0,0.0
+2019,4,April,Mortgage & Rent,1100.0,1100.0,0.0
+2019,4,April,Music,10.69,11.0,0.3100000000000005
+2019,4,April,Paycheck,0.0,0.0,0.0
+2019,4,April,Restaurants,99.89999999999999,150.0,50.10000000000001
+2019,4,April,Shopping,76.53,100.0,23.47
+2019,4,April,Television,11.76,15.0,3.24
+2019,4,April,Utilities,125.0,150.0,25.0
+2019,5,May,Auto Insurance,75.0,75.0,0.0
+2019,5,May,Credit Card Payment,2420.1,0.0,-2420.1
+2019,5,May,Electronics & Software,353.08,0.0,-353.08
+2019,5,May,Gas & Fuel,72.0,75.0,3.0
+2019,5,May,Groceries,2.02,150.0,147.98
+2019,5,May,Home Improvement,58.95,250.0,191.05
+2019,5,May,Internet,75.0,75.0,0.0
+2019,5,May,Mobile Phone,65.0,65.0,0.0
+2019,5,May,Mortgage & Rent,1100.0,1100.0,0.0
+2019,5,May,Music,10.69,11.0,0.3100000000000005
+2019,5,May,Paycheck,0.0,0.0,0.0
+2019,5,May,Restaurants,230.98,150.0,-80.97999999999999
+2019,5,May,Shopping,71.79,100.0,28.209999999999994
+2019,5,May,Television,13.9,15.0,1.0999999999999996
+2019,5,May,Utilities,125.0,150.0,25.0
+2019,6,June,Alcohol & Bars,30.0,50.0,20.0
+2019,6,June,Auto Insurance,75.0,75.0,0.0
+2019,6,June,Coffee Shops,6.5,15.0,8.5
+2019,6,June,Credit Card Payment,1087.22,0.0,-1087.22
+2019,6,June,Gas & Fuel,105.63,75.0,-30.629999999999995
+2019,6,June,Groceries,39.33,150.0,110.67
+2019,6,June,Haircut,30.0,30.0,0.0
+2019,6,June,Home Improvement,9200.0,250.0,-8950.0
+2019,6,June,Internet,75.0,75.0,0.0
+2019,6,June,Mobile Phone,65.0,65.0,0.0
+2019,6,June,Mortgage & Rent,1100.0,1100.0,0.0
+2019,6,June,Music,10.69,11.0,0.3100000000000005
+2019,6,June,Paycheck,0.0,0.0,0.0
+2019,6,June,Restaurants,23.24,150.0,126.76
+2019,6,June,Shopping,13.09,100.0,86.91
+2019,6,June,Television,13.9,15.0,1.0999999999999996
+2019,6,June,Utilities,125.0,150.0,25.0
+2019,7,July,Alcohol & Bars,19.0,50.0,31.0
+2019,7,July,Auto Insurance,75.0,75.0,0.0
+2019,7,July,Coffee Shops,9.5,15.0,5.5
+2019,7,July,Credit Card Payment,1596.94,0.0,-1596.94
+2019,7,July,Gas & Fuel,36.42,75.0,38.58
+2019,7,July,Groceries,330.54,150.0,-180.54000000000002
+2019,7,July,Haircut,30.0,30.0,0.0
+2019,7,July,Home Improvement,377.35,250.0,-127.35000000000002
+2019,7,July,Internet,75.0,75.0,0.0
+2019,7,July,Mobile Phone,65.0,65.0,0.0
+2019,7,July,Mortgage & Rent,1100.0,1100.0,0.0
+2019,7,July,Music,10.69,11.0,0.3100000000000005
+2019,7,July,Paycheck,0.0,0.0,0.0
+2019,7,July,Restaurants,180.64,150.0,-30.639999999999986
+2019,7,July,Shopping,103.08,100.0,-3.0799999999999983
+2019,7,July,Television,13.9,15.0,1.0999999999999996
+2019,7,July,Utilities,125.0,150.0,25.0
+2019,8,August,Alcohol & Bars,18.0,50.0,32.0
+2019,8,August,Auto Insurance,75.0,75.0,0.0
+2019,8,August,Coffee Shops,14.0,15.0,1.0
+2019,8,August,Credit Card Payment,2222.9700000000003,0.0,-2222.9700000000003
+2019,8,August,Gas & Fuel,71.05,75.0,3.950000000000003
+2019,8,August,Groceries,48.83,150.0,101.17
+2019,8,August,Haircut,19.0,30.0,11.0
+2019,8,August,Home Improvement,259.79,250.0,-9.79000000000002
+2019,8,August,Internet,75.0,75.0,0.0
+2019,8,August,Mobile Phone,65.0,65.0,0.0
+2019,8,August,Mortgage & Rent,1100.0,1100.0,0.0
+2019,8,August,Music,10.69,11.0,0.3100000000000005
+2019,8,August,Paycheck,0.0,0.0,0.0
+2019,8,August,Restaurants,134.85,150.0,15.150000000000006
+2019,8,August,Shopping,13.09,100.0,86.91
+2019,8,August,Television,13.9,15.0,1.0999999999999996
+2019,8,August,Utilities,125.0,150.0,25.0
+2019,9,September,Alcohol & Bars,72.98,50.0,-22.980000000000004
+2019,9,September,Auto Insurance,75.0,75.0,0.0
+2019,9,September,Coffee Shops,11.0,15.0,4.0
+2019,9,September,Credit Card Payment,3960.14,0.0,-3960.14
+2019,9,September,Gas & Fuel,66.5,75.0,8.5
+2019,9,September,Groceries,139.24,150.0,10.759999999999991
+2019,9,September,Home Improvement,26.25,250.0,223.75
+2019,9,September,Internet,75.0,75.0,0.0
+2019,9,September,Mobile Phone,65.0,65.0,0.0
+2019,9,September,Mortgage & Rent,1100.0,1100.0,0.0
+2019,9,September,Music,10.69,11.0,0.3100000000000005
+2019,9,September,Paycheck,0.0,0.0,0.0
+2019,9,September,Restaurants,172.34,150.0,-22.340000000000003
+2019,9,September,Shopping,85.38,100.0,14.620000000000005
+2019,9,September,Television,13.9,15.0,1.0999999999999996
+2019,9,September,Utilities,125.0,150.0,25.0
